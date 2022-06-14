@@ -24,3 +24,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
+
+## Deployment
+
+This project is hosted in Azure via Azure's Static Web App resource
+
+On every push to `main`, it will auto deploy
